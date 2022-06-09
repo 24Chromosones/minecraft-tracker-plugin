@@ -1,0 +1,12 @@
+name: Tracker
+version: '${project.version}'
+main: prj.andy.tracker.Tracker
+api-version: 1.17
+description: Adds a way to track other players without just revealing their location
+
+commands:
+  track:
+    description: track a player
+
+  trackstop:
+    description: stop tracking a player
