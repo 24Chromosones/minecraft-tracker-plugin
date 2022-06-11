@@ -8,7 +8,7 @@ public class TrackingPlayers {
     private Player trackingPlayer;
     private Player targetPlayer;
     private double targetDistance;
-    private static double[] randCoords = new double[2];
+    private double[] randCoords = new double[2];
 
 
 
